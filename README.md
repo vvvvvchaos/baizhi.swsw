@@ -159,6 +159,28 @@
 
 ![7e15077b6be202739760bfd05cf85da](https://user-images.githubusercontent.com/107102952/205490956-7dea4cfc-8142-4243-a3c7-f857b6b227b5.png)
 
+#11.前端
+1)将相关文件导入webapp文件夹
+
+![ea4b0005ab9d301ddad99d40692b11d](https://user-images.githubusercontent.com/107102952/205570549-041912cb-3713-45aa-9cec-825f2fae572e.png)
+![0f6c81322389cfa78160abbf0fc5e6b](https://user-images.githubusercontent.com/107102952/205570574-7955cdd3-02f2-4c85-b857-07ded63d0b7b.png)
+
+2）创建controller包
+
+3）用@Controller//向springboot标明这是一个controller文件
+
+![03fa5045d6389593268ecb1bdc29758](https://user-images.githubusercontent.com/107102952/205572348-1d9e6560-231d-494a-8387-4a5c84528951.png)
+
+4） @Autowired ，引入Service
+
+5) redirect:/是跳转到前端的一种方式，叫做重定向跳转
+
+6)@RequestMapping 为类和方法起一个别名
+
+![4a2873faa0beec4eddeeca4cc360f4f](https://user-images.githubusercontent.com/107102952/205578351-269d7132-7da9-40d4-8be7-28cca6c5b596.png)
+
+注意：修改代码后要重启服务器
+
 
 
 
